@@ -1,2 +1,2 @@
 # TextUtiles-React
-Textutile is a utility that can used to manipulate your text in the way you want
+ Developed a user-friendly React web application. Text Utility is a Free Online Word Counter and character counter tool which can manipulate your text the way you want. Free tool to change text case,  Uppercase to Lowercase, change Lowercase to Uppercase, Remove extra spaces, Copy text, Calculate read time, preview manipulate text,  also have DARK MODE option, and  Alert Message will show when user toggle to any buttons.
